@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riti-20
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning React js
-- 📫 How to reach me riiti035@gmail.com
+- 📫 How to reach me @riiti035@gmail.com
 
 
 <!---
